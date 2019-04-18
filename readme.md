@@ -1,3 +1,5 @@
+This series of scripts was used to design target capture target loci for Plethodon salamanders from the Ambystoma reference genome. It targets individual exons to avoid baiting across intron-exon boundaries.
+
 0_annotate_trans.py
 
 This script will take a text file of transcript annotations and append these to the names of your transcript fasta. Examples are in the script. If you transcriptome is already annotated, you can skip this step.
